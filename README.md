@@ -8,11 +8,11 @@ Group project and assignments of the NLP and Transformer course
 To clone the repository, navigate to the location you want to save it and execute
 
 ```
-git clone https://github.com/Immi000/NLP_and_Transformers-INLPT-WS2023
+git clone https://github.com/Immi000/EURLEX-RAG-Project-INLPT-WS2023
 ```
 or alternatively
 ```
-git clone ssh://git@github.com/Immi000/NLP_and_Transformers-INLPT-WS2023.git
+git clone ssh://git@github.com/Immi000/EURLEX-RAG-Project-INLPT-WS2023
 ```
 
 ### Execute the Chatmodel
